@@ -1,3 +1,4 @@
 ﻿# NNnotebook
 
-sample neural networkkkkkkkkk kqwekwrjgsdfghjtrewwefg
+sample neural network
+yay
